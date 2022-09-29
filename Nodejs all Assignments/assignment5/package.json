@@ -1,0 +1,15 @@
+{
+  "name": "assignment5",
+  "version": "1.0.0",
+  "description": "dominos",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dell",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
